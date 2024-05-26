@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\programainterfazconsole\\models\\gamedevcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|solutionrelative:programainterfazconsole\\models\\gamedevcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\programainterfazconsole\\models\\programmermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|solutionrelative:programainterfazconsole\\models\\programmermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\programainterfazconsole\\models\\testermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|solutionrelative:programainterfazconsole\\models\\testermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\programainterfazconsole\\models\\designermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|solutionrelative:programainterfazconsole\\models\\designermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\programainterfazconsole\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|solutionrelative:programainterfazconsole\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|c:\\users\\franc\\desktop\\programacion\\programainterfazconsole\\programainterfazconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|solutionrelative:programainterfazconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\programainterfazconsole\\models\\outsourcingcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|solutionrelative:programainterfazconsole\\models\\outsourcingcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\programainterfazconsole\\models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E830F3-3582-4E53-913F-7D310A33EF79}|ProgramaInterfazConsole\\ProgramaInterfazConsole.csproj|solutionrelative:programainterfazconsole\\models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramaInterfazConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Program.cs",
+              "RelativeToolTip": "ProgramaInterfazConsole\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:42:12.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TesterModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\TesterModel.cs",
+              "RelativeDocumentMoniker": "ProgramaInterfazConsole\\Models\\TesterModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\TesterModel.cs",
+              "RelativeToolTip": "ProgramaInterfazConsole\\Models\\TesterModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:51:00.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ProgramaInterfazConsole\\Interfaces\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "ProgramaInterfazConsole\\Interfaces\\IEmployee.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:48:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesignerModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\DesignerModel.cs",
+              "RelativeDocumentMoniker": "ProgramaInterfazConsole\\Models\\DesignerModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\DesignerModel.cs",
+              "RelativeToolTip": "ProgramaInterfazConsole\\Models\\DesignerModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:53:06.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgrammerModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\ProgrammerModel.cs",
+              "RelativeDocumentMoniker": "ProgramaInterfazConsole\\Models\\ProgrammerModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\ProgrammerModel.cs",
+              "RelativeToolTip": "ProgramaInterfazConsole\\Models\\ProgrammerModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:39:48.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameDevCompany.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\GameDevCompany.cs",
+              "RelativeDocumentMoniker": "ProgramaInterfazConsole\\Models\\GameDevCompany.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\GameDevCompany.cs",
+              "RelativeToolTip": "ProgramaInterfazConsole\\Models\\GameDevCompany.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:49:54.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutSourcingCompany.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\OutSourcingCompany.cs",
+              "RelativeDocumentMoniker": "ProgramaInterfazConsole\\Models\\OutSourcingCompany.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\OutSourcingCompany.cs",
+              "RelativeToolTip": "ProgramaInterfazConsole\\Models\\OutSourcingCompany.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:50:26.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyModel.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\CompanyModel.cs",
+              "RelativeDocumentMoniker": "ProgramaInterfazConsole\\Models\\CompanyModel.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\Programacion\\ProgramaInterfazConsole\\ProgramaInterfazConsole\\Models\\CompanyModel.cs",
+              "RelativeToolTip": "ProgramaInterfazConsole\\Models\\CompanyModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:43:13.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
